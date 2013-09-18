@@ -1,4 +1,4 @@
-misc
+Misc
 ====
 
 Miscellaneous personal projects
